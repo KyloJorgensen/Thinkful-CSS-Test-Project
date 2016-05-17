@@ -11,6 +11,11 @@ h1 {
 	/* h1 element layout declaration */
 	font-size: 3em;
 	text-align: center;
+	font-weight: normal;
+}
+
+h1 span {
+	font-weight: bold;
 }
 
 p {
